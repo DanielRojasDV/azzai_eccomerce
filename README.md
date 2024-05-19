@@ -5,7 +5,7 @@ Proyecto de ecommerce para la petstore de la marca Sachi, especializada en venta
 
 
 
-Creado haciendo uso de tecnologias web como html, css con el framework tailwind para la parte del frontend. Para la parte del backend se utilizará .net.
+Creado haciendo uso de tecnologias frontend como angular y tailwind css. Para la parte del backend se utilizará .net.
 
 Proyecto  para la clase de ingenieria de software 2 de la CUN.
  ## Integrantes
