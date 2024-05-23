@@ -3,9 +3,10 @@
 
 ## By azzai S.A.S
 ![logo-azzai](./src/assets/images/logo-azzai-200.jpg)
-Proyecto de ecommerce para la petstore de la marca Sachi, especializada en venta de productos para mascotas.Este producto es realizado por nuestra empresa de desarrollo de soluciones web Azza-i S.A.S.
 
-Creado haciendo uso de tecnologias web como html, css con el framework tailwind para la parte del frontend. Para la parte del backend y la creacion de la API se utilizará Laravel. Para la base de datos MySql.
+### Proyecto de ecommerce para la petstore de la marca Sachi, especializada en venta de productos para mascotas.Este producto es realizado por nuestra empresa de desarrollo de soluciones web Azza-i S.A.S.
+
+Creado haciendo uso de tecnologias web como html, css con el framework **Tailwind**, y **Angular** como framework frontend en su version 17.3. Para la parte del backend y la creacion de la API se utilizará **Laravel** en su version 11. Para la base de datos se utilizará MySql.
 
 
 Proyecto  para la clase de ingenieria de software 2 de la CUN.
