@@ -1,6 +1,8 @@
 # Sachi Pet-Shop
-## By azzai S.A.S
+![logo-sachi-pet](./src/assets/images/logo-1-300.png)
 
+## By azzai S.A.S
+![logo-azzai](./src/assets/images/logo-azzai-200.jpg)
 Proyecto de ecommerce para la petstore de la marca Sachi, especializada en venta de productos para mascotas.Este producto es realizado por nuestra empresa de desarrollo de soluciones web Azza-i S.A.S.
 
 
@@ -18,10 +20,18 @@ Proyecto  para la clase de ingenieria de software 2 de la CUN.
 
 ## Enlace Tableros Trello
 
-[Enlace Tablero - Sprint 1](https://trello.com/b/Uk34wjC4/sprint-1)
-[Enlace Tablero - Sprint 2](https://trello.com/b/fa2bAvwd/sprint-2)
-[Enlace Tablero - Sprint 3](https://trello.com/b/XerCiBqo/sprint-3)
+- [Enlace Tablero - Sprint 1](https://trello.com/b/Uk34wjC4/sprint-1)
+- [Enlace Tablero - Sprint 2](https://trello.com/b/fa2bAvwd/sprint-2)
+- [Enlace Tablero - Sprint 3](https://trello.com/b/XerCiBqo/sprint-3)
 
 ## Enlace Repositorio Backend realizado en Laravel
 
 [Enlace Repo Backend](https://github.com/DanielRojasDV/api-sachi-pet.git)
+
+## Probar Proyecto
+
+1. Clonar Repositorio
+2. Instalar librerias con `npm install`
+3. Levantar servidor Angular con `ng serve`
+
+**Nota:** ***El proyecto se creo con la ultima version de angular 17.3. Por lo que se necesita el cli actualizado a esta versión para compilar.***

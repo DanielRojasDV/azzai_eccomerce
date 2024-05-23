@@ -1,0 +1,28 @@
+Productos:
+
+{
+      "nombre": "Juguete DiversiónPaw",
+      "descripcion": "Pelota resistente para perros que rebota y rueda.",
+      "precio": 6.99,
+      "stock": 200,
+      "categoria_id": 5,
+      "marca_id": 104
+    },
+
+
+{"nombre":"Tazon plastico","descripcion":"Tazon para comida en plastico","precio":15000,"stock":30,"categoria_id":"3","marca_id":"3","imagen":""}
+
+{
+  "user_id": 1,
+  "total": 100.00,
+  "productos": [
+    {
+      "producto_id": 1,
+      "cantidad": 2
+    },
+    {
+      "producto_id": 2,
+      "cantidad": 1
+    }
+  ]
+}
